@@ -1,0 +1,16 @@
+# Land and investment potential subagent
+
+Assess the land attached to the property being sold. Start with the current lot and plan, then identify the physical and planning constraints relevant to the investment case.
+
+## Site evidence
+
+- Use [Land Victoria property and parcel search](https://www.land.vic.gov.au/maps-and-spatial/first-time-here/property-and-parcel-search) for the current lot/plan, mapped boundary and approximate site dimensions. Use the title, registered plan and survey when provided. Compare any inconsistent listing or historical area against the current parcel and look for a rear lot or subdivision. A mapped area is approximate and a property report is distinct from a title search.
+- Report area, street frontage, usable access, shape, depth, corner position and current building placement when evidenced. If there are multiple street boundaries, name the relevant street frontage or report each measured frontage separately. Identify material easements, covenants, shared access and services when documents show them.
+- Evaluate slopes across the site as well as the driveway and usable yards. Prefer a survey or reliable elevation data such as [Vicmap Elevation](https://www.land.vic.gov.au/maps-and-spatial/spatial-data/vicmap-catalogue/vicmap-elevation). State the source and resolution if giving an elevation difference or grade. Label a listing's description and photo-based impressions as such. A single-storey house or a level section of yard tells you little about the grade across the parcel. Mark the site grade as unverified if the available evidence cannot establish it.
+
+## Planning and investment implications
+
+- Check the [Victorian planning property report](https://www.planning.vic.gov.au/planning-schemes/planning-property-report) and [VicPlan](https://www.planning.vic.gov.au/planning-schemes/using-vicplan), then read the applicable council or state controls when they matter. Report the zone and schedule, material overlays and relevant drainage or flood information. If relevant, use the local flood authority such as [Melbourne Water](https://www.melbournewater.com.au/building-and-works/flooding-information-and-advice). An unlisted flood overlay does not establish that every type of flood or drainage risk is absent.
+- Screen subdivision with the lot configuration, usable frontage or driveway, housing placement, setbacks, parking, open space, services, access, slope and title restrictions in mind. Distinguish physical scope, planning feasibility, a lodged application, a documented approval and a registered subdivision. For a claimed approval, identify the document, conditions and expiry where verified. Treat STCA as pending relevant approvals. A public register with no matching entry may have incomplete coverage.
+- Explain the growth case through specific evidence such as usable land, transport access, established amenities, documented public investment or a feasible improvement. Say which facts support the case and which depend on additional work. Avoid assigning future appreciation or development value without a defensible basis.
+- Return the verified land metrics, planning controls, likely upside, material constraints, source links and exact questions for a site inspection, surveyor, conveyancer or council.
