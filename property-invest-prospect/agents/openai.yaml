@@ -1,4 +1,4 @@
 interface:
   display_name: "Property Invest Prospect"
-  short_description: "Assess rental returns, land, and listing claims in Victoria"
-  default_prompt: "使用 $property-invest-prospect 评估这套房产的租金、现金流、地块潜力和挂牌说法。"
+  short_description: "Generate sourced Victorian property due-diligence reports"
+  default_prompt: "使用 $property-invest-prospect 评估这套房产，并生成包含租金现金流、地块、suburb 数据和挂牌核查的 PDF。"
